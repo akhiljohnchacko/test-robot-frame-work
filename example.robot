@@ -5,3 +5,4 @@ Library    BuiltIn
 Example Test
     [Documentation]    This is an example test
     Log    Hello, Robot Framework!
+*** test done ***
